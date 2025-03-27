@@ -24,7 +24,8 @@ API desenvolvida em **Java com Spring Boot** para gerenciar reservas de restaura
 3. **Execute a aplicação:**  
    - No terminal, use:
      ```sh
-     mvn spring-boot:run
+     gradlew build
+     gradlew bootRun
      ```
 
 4. **Acesse a API em:**  
